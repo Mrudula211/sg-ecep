@@ -1,0 +1,543 @@
+{
+  "_comment": [
+    "Coarse semantic types used by the selectional-restriction checker.",
+    "'anchors' maps each coarse type to WordNet synsets; a noun sense belongs",
+    "to the type when one of these synsets appears in the sense's hypernym",
+    "closure. 'fallback' assigns the same types by lemma, so the system still",
+    "runs (and the tests stay hermetic) when WordNet is not installed.",
+    "Anchors were chosen against actual WordNet hypernym paths, not intuition: book.n.01 sits under publication.n.01 > artifact.n.01 and never under communication.n.02, so 'communication' needs several anchors to cover the written-work senses."
+  ],
+  "anchors": {
+    "person": [
+      "person.n.01"
+    ],
+    "animal": [
+      "animal.n.01"
+    ],
+    "food": [
+      "food.n.01",
+      "food.n.02"
+    ],
+    "beverage": [
+      "beverage.n.01",
+      "liquid.n.01",
+      "fluid.n.01"
+    ],
+    "plant": [
+      "plant.n.02"
+    ],
+    "artifact": [
+      "artifact.n.01"
+    ],
+    "instrument": [
+      "instrumentality.n.03",
+      "instrument.n.01",
+      "device.n.01"
+    ],
+    "vehicle": [
+      "vehicle.n.01"
+    ],
+    "furniture": [
+      "furniture.n.01"
+    ],
+    "structure": [
+      "structure.n.01"
+    ],
+    "location": [
+      "location.n.01",
+      "region.n.03",
+      "body_of_water.n.01"
+    ],
+    "communication": [
+      "communication.n.02",
+      "written_communication.n.01",
+      "publication.n.01",
+      "document.n.02",
+      "document.n.01",
+      "text.n.01",
+      "message.n.02",
+      "school_assignment.n.01",
+      "speech_act.n.01"
+    ],
+    "abstraction": [
+      "abstraction.n.06"
+    ],
+    "substance": [
+      "substance.n.01"
+    ],
+    "physical_entity": [
+      "physical_entity.n.01"
+    ]
+  },
+  "fallback": {
+    "student": [
+      "person"
+    ],
+    "students": [
+      "person"
+    ],
+    "teacher": [
+      "person"
+    ],
+    "teachers": [
+      "person"
+    ],
+    "child": [
+      "person"
+    ],
+    "children": [
+      "person"
+    ],
+    "boy": [
+      "person"
+    ],
+    "boys": [
+      "person"
+    ],
+    "girl": [
+      "person"
+    ],
+    "girls": [
+      "person"
+    ],
+    "man": [
+      "person"
+    ],
+    "men": [
+      "person"
+    ],
+    "woman": [
+      "person"
+    ],
+    "women": [
+      "person"
+    ],
+    "engineer": [
+      "person"
+    ],
+    "engineers": [
+      "person"
+    ],
+    "doctor": [
+      "person"
+    ],
+    "doctors": [
+      "person"
+    ],
+    "nurse": [
+      "person"
+    ],
+    "nurses": [
+      "person"
+    ],
+    "patient": [
+      "person"
+    ],
+    "patients": [
+      "person"
+    ],
+    "john": [
+      "person"
+    ],
+    "mary": [
+      "person"
+    ],
+    "atharva": [
+      "person"
+    ],
+    "dog": [
+      "animal",
+      "physical_entity"
+    ],
+    "dogs": [
+      "animal",
+      "physical_entity"
+    ],
+    "cat": [
+      "animal",
+      "physical_entity"
+    ],
+    "cats": [
+      "animal",
+      "physical_entity"
+    ],
+    "bird": [
+      "animal",
+      "physical_entity"
+    ],
+    "birds": [
+      "animal",
+      "physical_entity"
+    ],
+    "horse": [
+      "animal",
+      "physical_entity"
+    ],
+    "horses": [
+      "animal",
+      "physical_entity"
+    ],
+    "apple": [
+      "food",
+      "plant",
+      "physical_entity"
+    ],
+    "apples": [
+      "food",
+      "plant",
+      "physical_entity"
+    ],
+    "pizza": [
+      "food",
+      "physical_entity"
+    ],
+    "sandwich": [
+      "food",
+      "physical_entity"
+    ],
+    "sandwiches": [
+      "food",
+      "physical_entity"
+    ],
+    "bread": [
+      "food",
+      "physical_entity"
+    ],
+    "cake": [
+      "food",
+      "physical_entity"
+    ],
+    "cakes": [
+      "food",
+      "physical_entity"
+    ],
+    "soup": [
+      "food",
+      "beverage",
+      "physical_entity"
+    ],
+    "water": [
+      "beverage",
+      "substance",
+      "physical_entity"
+    ],
+    "milk": [
+      "beverage",
+      "food",
+      "physical_entity"
+    ],
+    "book": [
+      "communication",
+      "artifact",
+      "physical_entity"
+    ],
+    "books": [
+      "communication",
+      "artifact",
+      "physical_entity"
+    ],
+    "letter": [
+      "communication",
+      "artifact",
+      "physical_entity"
+    ],
+    "letters": [
+      "communication",
+      "artifact",
+      "physical_entity"
+    ],
+    "report": [
+      "communication",
+      "physical_entity"
+    ],
+    "reports": [
+      "communication",
+      "physical_entity"
+    ],
+    "paper": [
+      "communication",
+      "artifact",
+      "physical_entity"
+    ],
+    "papers": [
+      "communication",
+      "artifact",
+      "physical_entity"
+    ],
+    "homework": [
+      "communication",
+      "abstraction"
+    ],
+    "story": [
+      "communication",
+      "abstraction"
+    ],
+    "stories": [
+      "communication",
+      "abstraction"
+    ],
+    "question": [
+      "communication",
+      "abstraction"
+    ],
+    "questions": [
+      "communication",
+      "abstraction"
+    ],
+    "answer": [
+      "communication",
+      "abstraction"
+    ],
+    "answers": [
+      "communication",
+      "abstraction"
+    ],
+    "idea": [
+      "abstraction"
+    ],
+    "ideas": [
+      "abstraction"
+    ],
+    "telescope": [
+      "instrument",
+      "artifact",
+      "physical_entity"
+    ],
+    "telescopes": [
+      "instrument",
+      "artifact",
+      "physical_entity"
+    ],
+    "camera": [
+      "instrument",
+      "artifact",
+      "physical_entity"
+    ],
+    "cameras": [
+      "instrument",
+      "artifact",
+      "physical_entity"
+    ],
+    "computer": [
+      "instrument",
+      "artifact",
+      "physical_entity"
+    ],
+    "computers": [
+      "instrument",
+      "artifact",
+      "physical_entity"
+    ],
+    "pen": [
+      "instrument",
+      "artifact",
+      "physical_entity"
+    ],
+    "pens": [
+      "instrument",
+      "artifact",
+      "physical_entity"
+    ],
+    "knife": [
+      "instrument",
+      "artifact",
+      "physical_entity"
+    ],
+    "knives": [
+      "instrument",
+      "artifact",
+      "physical_entity"
+    ],
+    "hammer": [
+      "instrument",
+      "artifact",
+      "physical_entity"
+    ],
+    "spoon": [
+      "instrument",
+      "artifact",
+      "physical_entity"
+    ],
+    "car": [
+      "vehicle",
+      "artifact",
+      "physical_entity"
+    ],
+    "cars": [
+      "vehicle",
+      "artifact",
+      "physical_entity"
+    ],
+    "bus": [
+      "vehicle",
+      "artifact",
+      "physical_entity"
+    ],
+    "buses": [
+      "vehicle",
+      "artifact",
+      "physical_entity"
+    ],
+    "train": [
+      "vehicle",
+      "artifact",
+      "physical_entity"
+    ],
+    "trains": [
+      "vehicle",
+      "artifact",
+      "physical_entity"
+    ],
+    "table": [
+      "furniture",
+      "artifact",
+      "physical_entity"
+    ],
+    "tables": [
+      "furniture",
+      "artifact",
+      "physical_entity"
+    ],
+    "chair": [
+      "furniture",
+      "artifact",
+      "physical_entity"
+    ],
+    "chairs": [
+      "furniture",
+      "artifact",
+      "physical_entity"
+    ],
+    "door": [
+      "artifact",
+      "physical_entity"
+    ],
+    "doors": [
+      "artifact",
+      "physical_entity"
+    ],
+    "window": [
+      "artifact",
+      "physical_entity"
+    ],
+    "windows": [
+      "artifact",
+      "physical_entity"
+    ],
+    "box": [
+      "artifact",
+      "physical_entity"
+    ],
+    "boxes": [
+      "artifact",
+      "physical_entity"
+    ],
+    "school": [
+      "structure",
+      "location",
+      "physical_entity"
+    ],
+    "schools": [
+      "structure",
+      "location",
+      "physical_entity"
+    ],
+    "library": [
+      "structure",
+      "location",
+      "physical_entity"
+    ],
+    "libraries": [
+      "structure",
+      "location",
+      "physical_entity"
+    ],
+    "kitchen": [
+      "structure",
+      "location",
+      "physical_entity"
+    ],
+    "room": [
+      "structure",
+      "location",
+      "physical_entity"
+    ],
+    "rooms": [
+      "structure",
+      "location",
+      "physical_entity"
+    ],
+    "park": [
+      "location",
+      "physical_entity"
+    ],
+    "parks": [
+      "location",
+      "physical_entity"
+    ],
+    "garden": [
+      "location",
+      "physical_entity"
+    ],
+    "gardens": [
+      "location",
+      "physical_entity"
+    ],
+    "river": [
+      "location",
+      "physical_entity"
+    ],
+    "rivers": [
+      "location",
+      "physical_entity"
+    ],
+    "bank": [
+      "location",
+      "structure",
+      "physical_entity"
+    ],
+    "banks": [
+      "location",
+      "structure",
+      "physical_entity"
+    ],
+    "hill": [
+      "location",
+      "physical_entity"
+    ],
+    "hills": [
+      "location",
+      "physical_entity"
+    ],
+    "mumbai": [
+      "location"
+    ],
+    "pune": [
+      "location"
+    ],
+    "rock": [
+      "substance",
+      "physical_entity"
+    ],
+    "rocks": [
+      "substance",
+      "physical_entity"
+    ],
+    "stone": [
+      "substance",
+      "physical_entity"
+    ],
+    "stones": [
+      "substance",
+      "physical_entity"
+    ],
+    "tree": [
+      "plant",
+      "physical_entity"
+    ],
+    "trees": [
+      "plant",
+      "physical_entity"
+    ]
+  }
+}

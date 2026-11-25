@@ -1,0 +1,24 @@
+gold sentences : 200
+corruptions    : 1000
+  ungrammatical: 695  (scored)
+  still grammatical: 305  (30.5%, left unchanged by design)
+WordNet backend: True
+language model : BigramLM(vocab=251, bigram_types=2679, discount=0.75)
+
+configuration   cases      exact     oracle      valid  no repair      time
+---------------------------------------------------------------------------
+baseline          695       0.0%       0.0%       0.0%        695      0.0s
+syntax-only       695      41.2%      51.2%      87.5%          0    314.6s
+syntax+lm         695      47.1%      59.4%      91.2%          0    331.1s
+full              695      47.2%      59.7%      93.5%          0    330.9s
+
+exact recovery by corruption type
+configuration     agreement    drop_word    duplicate     swap_pos    swap_word
+-------------------------------------------------------------------------------
+baseline               0.0%         0.0%         0.0%         0.0%         0.0%
+syntax-only           95.9%         7.0%        46.9%        15.2%         0.0%
+syntax+lm             97.6%        12.0%        43.6%        34.2%        25.0%
+full                  97.6%        12.7%        43.6%        34.2%        25.0%
+
+ties: in 304 of 695 cases the parser returned more than one cheapest repair;
+      the full configuration recovered the gold sentence in 79 of those.

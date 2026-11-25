@@ -1,0 +1,43 @@
+{
+  "_comment": [
+    "Selectional restrictions per verb lemma, stated over the coarse types in",
+    "semantic_types.json. ARG0 is the agent (subject), ARG1 the patient/theme",
+    "(direct object), ARG2 the recipient of a ditransitive.",
+    "A role that is absent from a verb's entry is unconstrained. A verb that",
+    "is absent altogether scores neutral -- the checker never penalises a",
+    "sentence just because its verb is unknown to the resource."
+  ],
+  "verbs": {
+    "eat":   {"ARG0": ["person", "animal"], "ARG1": ["food", "plant"]},
+    "drink": {"ARG0": ["person", "animal"], "ARG1": ["beverage", "substance"]},
+    "read":  {"ARG0": ["person"], "ARG1": ["communication"]},
+    "write": {"ARG0": ["person"], "ARG1": ["communication"]},
+    "study": {"ARG0": ["person"], "ARG1": ["communication", "abstraction"]},
+    "teach": {"ARG0": ["person"], "ARG1": ["communication", "abstraction"], "ARG2": ["person"]},
+    "drive": {"ARG0": ["person"], "ARG1": ["vehicle"]},
+    "cut":   {"ARG0": ["person"], "ARG1": ["physical_entity"]},
+    "open":  {"ARG0": ["person"], "ARG1": ["physical_entity"]},
+    "break": {"ARG0": ["person", "animal"], "ARG1": ["physical_entity"]},
+    "watch": {"ARG0": ["person", "animal"], "ARG1": ["physical_entity", "communication"]},
+    "see":   {"ARG0": ["person", "animal"], "ARG1": ["physical_entity", "abstraction"]},
+    "sleep": {"ARG0": ["person", "animal"]},
+    "walk":  {"ARG0": ["person", "animal"]},
+    "run":   {"ARG0": ["person", "animal"]},
+    "think": {"ARG0": ["person"]},
+    "know":  {"ARG0": ["person"]},
+    "tell":  {"ARG0": ["person"], "ARG1": ["communication", "abstraction"], "ARG2": ["person"]},
+    "give":  {"ARG0": ["person"], "ARG2": ["person"]},
+    "send":  {"ARG0": ["person"], "ARG1": ["physical_entity", "communication"], "ARG2": ["person"]},
+    "like":  {"ARG0": ["person", "animal"]}
+  },
+  "instrument_preferences": {
+    "_comment": "Used to disambiguate PP attachment: verb -> types that make a plausible 'with'-instrument.",
+    "see": ["instrument"],
+    "watch": ["instrument"],
+    "cut": ["instrument"],
+    "write": ["instrument"],
+    "break": ["instrument"],
+    "open": ["instrument"],
+    "eat": ["instrument"]
+  }
+}

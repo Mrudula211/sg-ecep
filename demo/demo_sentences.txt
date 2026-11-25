@@ -1,0 +1,44 @@
+# Demo set for `python -m sgecep.cli --demo`.
+# Each line exercises a different part of the system.
+
+# -- already grammatical: the system must leave these alone -----------------
+the dog ate the sandwich
+the students read the reports
+john gave mary a book
+
+# -- subject-verb agreement: repaired by one INFLECT edit -------------------
+the students reads the book
+the dog eat the sandwich
+every student read the report
+
+# -- missing determiner: repaired by one INSERT of a function word ----------
+student reads the book
+the teacher gave student a book
+
+# -- spurious token: repaired by one DELETE ---------------------------------
+the the dog ate the pizza
+the student student reads the book
+
+# -- cross-category substitution: an adverb sits where the grammar needs a
+#    noun.  The verb is strictly transitive, so the adverb cannot simply be
+#    deleted -- a noun slot must be filled, and every one of ~60 nouns costs
+#    exactly the same.  Edit distance cannot choose; semantics and the LM can.
+the student cut the quickly
+the doctor opened the slowly
+
+# -- the clearest case of semantics changing the answer.  Without the
+#    selectional restrictions the reranker picks "told her pens", which is
+#    grammatical but violates tell.ARG1 (requires communication, "pens" is an
+#    artifact).  With them it picks "sends", whose ARG1 admits a physical
+#    object.  Compare:
+#      python -m sgecep.cli "atharva cars her pens"
+atharva cars her pens
+
+# -- PP attachment: "with the telescope" is a plausible instrument for "see",
+#    "with the pizza" is not, so the two readings should rank differently
+she saw the man with the telescope
+she saw the man with the pizza
+
+# -- several errors at once -------------------------------------------------
+student reads book
+the the students reads the book

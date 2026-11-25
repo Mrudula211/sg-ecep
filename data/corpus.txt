@@ -1,0 +1,907 @@
+# Language-model training corpus -- GENERATED FILE.
+#
+# Produced by sampling derivations from data/grammar.cfg and keeping only
+# those whose predicate-argument structure satisfies every applicable
+# selectional restriction in data/selectional_restrictions.json.
+#
+# Regenerate with:  python -m eval.build_corpus
+a girl might sleep
+a happy heavy nurse near many cats on her drinks
+a patient can walk
+a patient from her drank
+a patient likes you
+a patient quietly sleeps yesterday
+a student drank
+a student sends mary stones
+all boys might tell that slowly run
+all boys run
+all clever doctors often could eat slowly
+all nurses opened every engineer near rivers to it
+all nurses study
+all quite sharp rather tall cats never walk
+all tall teachers might write
+always all horses drink
+always all teachers think that he were several rooms
+always always mary walks
+always always she read
+always an patient wrote
+always break it
+always children from three teachers slept
+always give atharva it
+always give i us
+always give she an clever dog yesterday
+always give she mumbai near me with some students
+always give us many patients at him in her
+always i could drink
+always john could give each patient them
+always john cut the girls
+always john gives i you
+always john tells that we should be fresh
+always mary could think that read
+always men for us ran
+always never he liked them
+always often we can run
+always often you thought that we are them
+always quickly i should know you
+always quickly you ran
+always quickly you watch them
+always see them from him
+always send boys to it windows
+always send they tall rather big knives
+always she could tell that all men in mary drive
+always she drinks
+always the student for me could give us john
+always they can walk
+always they give me you
+always today he ate
+always we can sleep near each sandwich for them
+always we yesterday drove
+always women will send you it
+always you gave you mumbai
+an boy in you could like those hills today
+an engineer in pune walked
+an green hungry student for you writes
+an horse to me should walk
+an nurse gave they all parks from they
+an nurse likes mary
+an small rather clever cat knew they
+an teacher for they slept
+an teacher in they runs
+an very old child eats
+atharva can sleep near some quite heavy soups
+atharva can tell that he can send windows
+atharva could see two trees
+atharva gave me it
+atharva gives john him
+atharva gives we quite clever answers
+atharva knew it
+atharva knows the papers often
+atharva likes me
+atharva might run
+atharva might write
+atharva must like letters under he
+atharva must run
+atharva quickly slept in libraries
+atharva quickly tells that they was many patients
+atharva saw that fresh small libraries are quite sharp
+atharva sees those rocks in mumbai
+atharva sends her pens
+atharva should like you
+atharva should think that quietly have you slowly near john
+atharva should write
+atharva tells that know they at them in her yesterday
+atharva thinks that drink
+atharva today ran
+atharva told that i is fresh very happy
+atharva told that mary is happy with cakes to you
+atharva watched it quietly
+atharva will write
+atharva writes at them
+atharva yesterday thought that eat today
+birds liked they
+boys could think that he is each table from it
+boys from him write
+break an quite big bread
+break pizzas to john
+break sad apples from mumbai
+break them in mumbai
+break these dogs
+children could sleep
+computers teach a heavy clever very tired quite clever answer
+cut a library for him
+cut a milk under we on all kitchens
+cut boys quietly quietly to teachers for it
+cut rather small chairs
+cut rivers on them
+cut them at a window
+cut they on many trains from us in her
+cut three trains
+cut tired sharp green sad nurses on us
+doctors on it write
+dogs in mumbai eat
+dogs see that it will be quite happy
+dogs under him ran
+drink all rocks to birds at us never
+drink several stones under very heavy young papers for ideas
+each big tall engineer sent she young trees at we
+each patient thinks that often always eat
+each quite young horse with me can drink
+eat some trees from she
+engineers at you can drive
+engineers from very red computers teach us stones with him
+every engineer with i slept
+every nurse for it never will eat
+every old rather hungry sharp sad child sends you it
+girls might know us
+give an girl on mary they
+give atharva him
+give atharva me
+give atharva she
+give atharva them
+give atharva us
+give doctors for me a hill
+give every nurse he
+give he atharva often
+give he me under that clever garden with us
+give he pens under i
+give he pune
+give he we quietly
+give her an window near cars for you on he
+give her books in these fresh quite sharp pens
+give her it
+give her me quickly
+give her she never
+give her we
+give her you
+give him he to us
+give him i on very clever soups
+give him it
+give him john
+give him me from an milk often
+give him the fresh clever rather hungry quite happy book
+give him us
+give him we today on mary
+give him you
+give i it never
+give i me
+give i we
+give john atharva with banks quickly
+give john her quietly
+give john it quietly
+give john mary
+give john mary quietly
+give john the heavy apples on they quietly
+give john them quietly for girls for we
+give john these letters under a apple
+give mary atharva never
+give mary every big very clever camera yesterday
+give me all green reports with me
+give me an hammer at those telescopes under us
+give me the man
+give me they
+give men with many children from i mumbai
+give quite tired very young sad nurses two answers often
+give she an quite green boy
+give she cakes at it
+give she many hungry books in it in her slowly
+give she she
+give the student the kitchens
+give them it today
+give them several rivers
+give them they on it never
+give them us
+give these men with her papers in it
+give they atharva
+give they i
+give they me
+give they me at her
+give they you to the pen at i
+give us children to you often
+give us him
+give us me yesterday
+give us them never
+give us this fresh small dog always
+give we every heavy computer
+give we them
+give women at mumbai atharva
+give you every kitchen
+give you her slowly
+give you i
+give you me
+give you me to pune
+give you she
+give you you
+green boys to an bus run
+he breaks the doctor
+he can break an girl under them
+he can drink with atharva
+he can study
+he can write often
+he could give every quite tall student with me he
+he could run
+he could study
+he gave us it
+he gives john john
+he gives we you
+he knows her
+he might break that kitchen always
+he might drink
+he might see that write
+he might study
+he might think that know you on us
+he might write
+he must give her her
+he must know that an story is hammers with they
+he must know that we should give john we
+he must like we
+he must see that send it for she quietly
+he must teach her these libraries in him
+he opened they
+he saw that this hungry doctor at them studied
+he sees cats
+he sends me it
+he sent them
+he should sleep
+he slowly should send apples
+he tells that he could like he
+he tells that today engineers are heavy red
+he thought that children to him were sad quickly
+he thought that they were him quickly
+he told that she must be sharp old
+he watches all doors
+he will eat
+he will know that like you to it at me
+he will walk
+heavy students gave him this sharp small big green engineer
+i always must write
+i can drink
+i can like me
+i can think that never we can drive
+i can watch it
+i could open they
+i could tell that she ate
+i could tell that tired clever rooms was quite happy
+i gave we it
+i gave you him
+i knew him
+i knew hungry young sad stories with us
+i knew mary
+i knows a small knife under these hills on pune
+i knows an old sad bank to it slowly
+i liked doors for it
+i opens all stones for we
+i read from mumbai
+i runs near you
+i saw the table
+i sees that mary drinks
+i sent those doctors for all windows they
+i should eat
+i should give they some clever pens at you
+i should know that he sees that run
+i should think that often write
+i studied with several soups for the woman
+i taught her a rather heavy bank from i
+i thinks that it is john
+i thought that know it
+i watches them
+i watches three rooms under us
+i will drive
+i will eat
+i will know we
+i will like he
+i will like she
+i will study from you
+i will write
+i yesterday slept
+john can eat
+john can like i
+john can sleep
+john can study
+john could drink
+john cut it
+john gave me sad rather fresh boxes
+john gave you this idea
+john gives me me
+john knew that slowly always he is it
+john knew us
+john likes her
+john might sleep
+john never drank always
+john opened rather small chairs
+john saw each book
+john saw that atharva were sad very red
+john should run
+john told that always yesterday boys write
+john told that never quietly read quietly
+john told that open those soups with you
+john told that quietly quietly like atharva often near mumbai
+john will give us women in pune
+john will write
+many children for him ran
+many girls in them can study
+many nurses eat
+many nurses under him slept
+many rather hungry teachers to her cut it
+mary breaks two telescopes
+mary can cut it
+mary can run
+mary can walk
+mary can write
+mary could see them
+mary could think that give you all engineers
+mary cuts it
+mary cuts sharp fresh dogs on you
+mary drank quickly
+mary drinks with it
+mary gives atharva three patients at they
+mary knew you
+mary liked all big fresh soups
+mary likes she
+mary might know that children slept
+mary might send us gardens
+mary might walk
+mary must give them we
+mary must like atharva
+mary must see that mary will read
+mary must write
+mary sees that never quietly they can be young today
+mary sees that slowly write
+mary sends an woman for three happy sharp dogs
+mary sent i very sharp windows
+mary sent john the milk
+mary should drive
+mary tells that yesterday slowly slowly quickly eat
+mary tells that you must be rather small
+mary thought that quickly i drives
+mary thought that some apples in me could be fresh
+mary today writes
+mary watches boys
+mary will send atharva every green kitchen
+mary wrote at us
+men at those books with we will write
+men must sleep
+never a boy studied
+never break rather tired quite sad buses today on me
+never cut two rocks
+never give you me quietly
+never he could write
+never i eats
+never i eats from them
+never i liked them
+never john must see that walk
+never john will open each tree
+never nurses from them read
+never often slowly they walk
+never quickly she gave mary patients
+never quietly often they gave men at a garden apples
+never quietly they ate
+never quietly yesterday see it
+never send me a computer on him
+never she opens they
+never she tells that slowly he is very clever slowly
+never she walks
+never slowly he today ran
+never slowly send mary those soups near us
+never study an train at we always
+never they must tell that we are happy very sharp
+never yesterday atharva could drive
+never yesterday you watch it
+never you walked under it
+nurses always wrote
+nurses could know that boys with us write
+nurses with the student with you like her often
+often all tired small men to me studied
+often always always he drank
+often always we wrote
+often always you study for some rooms
+often atharva gives you you
+often atharva tells that i is her
+often cut these women quietly today
+often each woman under you can read
+often give atharva him never
+often give me fresh chairs at them
+often give we many spoons near you
+often he walks often
+often i can sleep
+often i walked
+often john drinks
+often john drives
+often mary ate
+often quickly give clever nurses on windows me
+often quite tall fresh sad teachers should open it
+often she wrote on i
+often slowly cut fresh tall quite tall hills
+often that happy student must give me you
+often that horse will run
+often they will run
+often this very green big patient in her should write
+often very big nurses at me drive
+often we might give them several girls
+often we open many heavy engineers
+often we should run
+open each hammer from that paper
+open fresh cameras
+open it always
+open it yesterday
+open knives for stories
+open rather fresh doctors
+quickly atharva will read
+quickly give them you often
+quickly he studies
+quickly i slept for he
+quickly mary should walk
+quickly quickly often i eats
+quickly see this apple
+quickly send us it
+quickly she will know that we walked
+quickly slowly mary opens a garden
+quickly tell you letters under he yesterday
+quickly they read
+quickly they send him doors near you
+quickly they thought that john was hungry heavy
+quickly today the engineer sees that study
+quickly yesterday break it slowly
+quickly you could send they
+quietly always break some chairs to mumbai
+quietly atharva studies
+quietly birds for us might sleep
+quietly give he me
+quietly give me children from her
+quietly give she them
+quietly give you i quickly
+quietly happy children will send these red big parks
+quietly i can break they
+quietly i drives
+quietly i will walk
+quietly john might drive
+quietly john runs
+quietly mary liked hammers
+quietly men from they give she mumbai
+quietly never he knows that eat quickly
+quietly often she yesterday can know them
+quietly open many windows
+quietly quietly never they often studied
+quietly several old girls sleep
+quietly she could cut many birds
+quietly she eats
+quietly slowly we must send i the cameras to mumbai
+quietly the dogs on her slept
+quietly they could write
+quietly they told that know two schools
+quietly those girls should drive
+quietly watch two very hungry hungry quite big computers
+quietly yesterday today yesterday give they you quickly
+quietly you could send them them quietly
+quite heavy teachers knew that mumbai were quite heavy
+quite tired engineers ate
+quite tired teachers might tell that eat
+read that letter for it slowly
+read that tall homework often
+red green chairs for each window with atharva could eat
+rocks from they walk
+rocks must like the river near it
+see all happy old very tired pens
+see each hill from he
+see each train in atharva near him
+see every question
+see every sandwich for mary
+see it often
+see rivers to him
+see rooms to many students never on she
+see several rather young letters
+see the answer
+see them for john for atharva
+see two pens
+send atharva cakes to every very happy train
+send atharva it often
+send atharva them
+send atharva these birds with me
+send clever young schools quickly
+send each rather big room
+send her an window on you
+send her cars
+send her it
+send her they at cakes
+send her three clever computers at me from she
+send her two questions from you
+send him them yesterday
+send him these children under mary
+send him they quickly
+send hungry gardens
+send i them
+send it near you slowly
+send many clever big fresh fresh rooms
+send me every horse
+send me papers under you
+send me these rather tall horses
+send me they
+send me this red soup under he never
+send me three men
+send quite small computers to them hills
+send rather hungry big quite clever nurses for i
+send sad big buses slowly
+send sad sharp quite tall buses quietly
+send several gardens
+send she all rivers
+send she it
+send she them
+send she this pen often
+send stories at all answers often
+send that heavy hungry quite happy boy
+send them it near you often on we yesterday
+send them letters to they near he with you quickly
+send them they
+send them they slowly
+send these nurses these girls
+send these sandwiches near her
+send these teachers on atharva spoons in pune
+send they small very red boxes on him
+send this bread from it for the story
+send this very heavy school at john never under him
+send those soups
+send three computers slowly
+send three reports yesterday
+send three small heavy very big quite sad boxes
+send trains for windows quietly
+send two young quite happy men with you
+send us a apple at we
+send us an room always
+send us horses
+send us it
+send us it quickly
+send us these rather old sandwiches today
+send we it
+send you an teacher from him
+several doctors slept
+several engineers told that an chair to it is me
+several students could read
+several teachers knew i
+she always will know him
+she can know that run
+she can study
+she could tell that i is these knives
+she gave you he
+she knew each quite happy river
+she knows that mary could sleep
+she knows them near them
+she liked him
+she might cut they
+she might know you
+she must run
+she must think that yesterday give her them
+she never will eat
+she quietly gives them i
+she saw an small small apple under it
+she saw that each patient on mumbai gives she pune
+she sees that each school with john is quite red
+she sends every box for them
+she sent her doctors
+she sent she them
+she sent them cats with him
+she should send them them
+she should walk
+she sleeps from pune
+she thinks that run never
+she thinks that slowly like you
+she told her papers quietly
+she told that each engineer were small rather big nurses
+she watches doors near he
+she will drink
+she will tell that run
+she will think that mary must know he
+she will watch quite clever men
+slowly atharva saw that i told that pune were you
+slowly atharva studied
+slowly break that room from she quietly
+slowly cut these parks for us
+slowly give john it quickly
+slowly give she you quietly
+slowly give us mumbai
+slowly give we we
+slowly he could know this tall rock near trees
+slowly he gives us mumbai
+slowly he will read
+slowly he wrote
+slowly i must study today
+slowly i told that eat always
+slowly i walks
+slowly never never see the question under mary
+slowly never they gave he questions under me
+slowly often i will drive yesterday
+slowly quickly watch parks
+slowly quickly you eat
+slowly quietly she drinks
+slowly send letters at her near we today
+slowly send me many nurses
+slowly she read
+slowly slowly always they know me
+slowly slowly i often watched this very clever telescope
+slowly teach i clever reports
+slowly they send us they quietly
+slowly they thought that quickly read
+slowly today never open it
+slowly today often we send you it
+slowly two engineers drove
+slowly we might walk
+slowly we sleep
+slowly yesterday they could like her
+slowly you sleep
+slowly you write
+small clever boys could walk
+some doctors slept
+some girls could write
+students saw that i can know that we drive
+students with it told that send them many sandwiches
+study that letter in you
+study these letters
+tall doctors for you could drive often
+teach him three patients
+teach she the quite old question
+teach you this fresh tired question
+teachers could tell that this engineer on us can eat
+teachers for she knew they
+tell atharva a hungry milk
+tell doctors on atharva the books
+tell he all libraries
+tell me that bank from they
+that boy knows you
+that engineer drinks
+that woman at i tells that never i slept
+that woman with pune sends you it
+the boys near him read
+the doctors know he today
+the hungry girl thought that quickly a room were it
+the man might tell that you was young heavy tall
+the nurse for them opened they
+the nurse from patients near them might like we
+the nurse from pune slept
+the red heavy rather big girl tells that write
+the woman in it tells that always john is they
+these cats to windows will walk
+these children thought that drive
+these doctors under they could write
+these engineers to him will write
+these horses with him could watch it
+these men read under mumbai
+these men saw several young fresh kitchens on you
+these quite tired dogs saw that atharva writes
+they ate for tired very happy chairs
+they break each room
+they can like all reports under a story
+they can tell that run near they
+they could drive
+they could know us
+they give those hungry tired computers dogs at you
+they give you it
+they knew me
+they knew those young very hungry hammers to us
+they know that mary gave me it
+they liked us
+they might know an student
+they might know that it is very old
+they might sleep
+they might sleep never
+they must sleep
+they often ate
+they opened doctors under mumbai
+they ran on i
+they read with we always
+they see that give me mary often under it
+they see that i must be quite happy
+they see that it always can be fresh old
+they see that paper near this sad student from me
+they send we all quite old children
+they should run quietly for they
+they should send we those buses
+they should write quietly
+they teach she young sharp banks under them
+they tell that eat often
+they tell that pizzas at them are quite sad today
+they tell that slowly they run on you quickly
+they tell that very young young teachers are me
+they tell we each rock with it
+they watched them
+they will send i some dogs
+they will sleep
+they write on we
+they yesterday could drive quietly
+they yesterday slowly should drink
+this doctor will see that break that rather green park
+this dog walked
+this patient will like him
+this sad happy student knew that send papers
+this teacher near you walked
+this woman could know that he saw trains yesterday
+those computers sleep
+those doctors might see that run
+those doctors near mumbai give him him
+those happy green very sharp quite red dogs might eat
+those horses like mumbai
+those quite tall nurses under rocks for us never run
+those teachers today can write to it
+those very big engineers saw that write yesterday yesterday
+three boys near she ran
+three children with her send me it
+three doctors never like that school
+three rather old boys wrote
+three women must give us three nurses on they
+today always fresh clever men to she studied
+today always give we all boys to i quietly
+today always often i must see that sleep
+today atharva knows that know her
+today atharva runs
+today break the milk
+today cats for me can run
+today give atharva pune
+today give she them
+today i ate
+today john read
+today john taught we many sharp sad very green patients
+today john walks often
+today john will write
+today mary gave mary mumbai
+today often slowly never they must read
+today often you knew that always always like her
+today quietly always give john her at they
+today send him them
+today send very clever tables from i
+today slowly see rocks on her
+today slowly see very young letters always
+today slowly send us every knife
+today some men with we drive
+today teach that question
+today these girls might write
+today they liked you
+today today the boy must run
+today today we will run
+today today yesterday give me me often with girls quietly
+today watch it
+today we can give she the libraries
+today we drove
+today we must sleep
+today yesterday cut this nurse on a train often
+today you study
+today young rather happy children read
+two computers see that drink
+two horses at they might eat
+two rocks on two trees read
+two students write
+two very old doctors send two happy letters to they
+very young computers know you
+watch all horses for we
+watch all spoons today
+watch an doctor at them
+watch doctors on the hills for him
+watch each paper
+watch engineers on each question
+watch horses from him
+watch it for trees to him
+watch it never
+watch it quickly
+watch several apples
+watch several horses
+watch several stories today never slowly
+watch the dog under hungry students on john
+watch them near me
+watch them quickly
+watch they to atharva
+watch this homework near them
+we broke it
+we can sleep
+we can tell that old engineers wrote
+we could cut letters
+we could give we they
+we could tell that some dogs from they drank rocks
+we could write
+we gave we you
+we give he her
+we knew mary
+we knew that give i he
+we know him
+we know that sleep in you yesterday
+we know they
+we might eat on me
+we might read yesterday
+we might watch papers
+we must drive
+we must walk
+we must watch they
+we never must send the cats
+we quickly will know that girls cut it
+we read near gardens
+we saw that sharp green big pizza
+we see that study
+we send every happy old telescope to they
+we should drink
+we should give john you
+we should give many women they
+we should know atharva
+we should send me it on she
+we slept under mumbai
+we today drove from pune at they
+we told he stories with them
+we told that walk often
+we told that you are tired rather red rocks
+we will break them
+we will tell that open schools under them
+we will write
+we wrote to he
+yesterday always mary teaches the papers on pune
+yesterday an rather sharp engineer walks
+yesterday atharva gave them he
+yesterday break doctors under rather young soups near they
+yesterday give we her
+yesterday give we you
+yesterday he ate
+yesterday he told that they never are tired
+yesterday i knew you
+yesterday i should know that eat quickly
+yesterday mary might give them we
+yesterday mary thought that i might run
+yesterday never slowly open every stone for me quietly
+yesterday nurses ate
+yesterday often they will study
+yesterday open they yesterday from john
+yesterday quickly send an nurse several boxes on him
+yesterday quietly give her him to them yesterday
+yesterday rocks studied
+yesterday see banks
+yesterday see each homework quickly
+yesterday send us books quickly
+yesterday she drove
+yesterday she gives doctors i
+yesterday she slept
+yesterday teach the answer
+yesterday they drink
+yesterday they drive
+yesterday three boys under me cut the box
+yesterday today atharva walks yesterday
+yesterday yesterday open the spoons in she
+yesterday yesterday we ate
+yesterday you eat
+you broke these engineers
+you can read
+you can read for mumbai
+you can see apples near them
+you can see that she could give you we
+you could drive
+you could send them today
+you eat with the bus
+you give atharva them
+you give me the bread
+you knew she
+you knew that i were her
+you knew that they have stones
+you knew that we were rather young today
+you know me
+you know that never write yesterday
+you like he
+you liked kitchens for mumbai
+you might drink often
+you might like you
+you might run
+you might write a report quickly
+you must run
+you must see that they might walk
+you quickly walk
+you saw that john today was heavy
+you saw that you must drink
+you send mary pens near each telescope for every story
+you send them
+you should eat
+you should run
+you should walk
+you tell that a bank is rather old
+you tell that john walks
+you tell that you eat
+you think that horses are the rock
+you think that mary liked an box near every door
+you thought that rivers were quite sad
+you today might drink
+you walk never
+you will drink
+you will drive
+you will open they
+you will study
+you will tell that i is old
+you will walk

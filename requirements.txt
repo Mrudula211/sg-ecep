@@ -1,0 +1,4 @@
+# Core system has no hard third-party dependency: with WordNet absent it falls
+# back to the bundled ontology in data/semantic_types.json.
+nltk>=3.8          # WordNet access for Lesk WSD and hypernym-closure typing
+pytest>=7.0        # test suite only
